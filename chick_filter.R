@@ -44,8 +44,7 @@ df_incl_filtered <- Annotation_data_2025_01_30_Wide_format %>%
 
 
 #import experimental data
-Annotation_data_Experimentlevel <- read_csv("data/Annotation_data_-_2025_01_30_-_Long_format_-_29bc6a0b-5ece-46b1-bcaf-776ff4275ecd_-_Investigators_Unblinded_-_Experimentlevel.csv
-data/Annotation_data_-_2025_01_30_-_Long_format_-_29bc6a0b-5ece-46b1-bcaf-776ff4275ecd_-_Investigators_Unblinded_-_Experimentlevel.csv")
+Annotation_data_Experimentlevel <- read_csv("data/Annotation_data_-_2025_01_30_-_Long_format_-_29bc6a0b-5ece-46b1-bcaf-776ff4275ecd_-_Investigators_Unblinded_-_Experimentlevel.csv")
 
 
 names(Annotation_data_Experimentlevel)
